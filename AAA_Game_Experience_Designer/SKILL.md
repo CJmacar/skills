@@ -1,5 +1,5 @@
 ---
-id: aaa-game-experience-designer
+id: aaa-game-designer
 name: AAA Game Experience Designer
 description: Transform any game concept into a polished, commercially viable, highly engaging gaming experience with world-class design principles from top studios.
 version: 1.0.0
